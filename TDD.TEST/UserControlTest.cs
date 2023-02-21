@@ -4,6 +4,7 @@ using TDD.API.Entity;
 using TDD.API.Controllers;
 using AutoFixture;
 using Microsoft.AspNetCore.Mvc;
+using Xunit;
 
 namespace TDD.TEST
 {
